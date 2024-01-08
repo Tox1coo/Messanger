@@ -1,0 +1,75 @@
+# Nuxt dev/build outputs
+**/.output
+**/.data
+**/.nuxt
+**/.nitro
+**/.cache
+**/dist
+
+# Node dependencies
+**/node_modules
+
+# Logs
+**/logs
+**/*.log
+
+# Misc
+**/.DS_Store
+**/.fleet
+.idea
+**/.idea
+# Local env files
+**/.env
+**/.env.*
+**/!.env.example
+
+
+############################
+# Packages
+############################
+
+**/*.7z
+**/*.csv
+**/*.dat
+**/*.dmg
+**/*.gz
+**/*.iso
+**/*.jar
+**/*.rar
+**/*.tar
+**/*.zip
+**/*.com
+**/*.class
+**/*.dll
+**/*.exe
+**/*.o
+**/*.seed
+**/*.so
+**/*.swo
+**/*.swp
+**/*.swn
+**/*.swm
+**/*.out
+**/*.pid
+
+
+############################
+# Logs and databases
+############################
+
+**/.tmp
+**/*.log
+**/*.sql
+**/*.sqlite
+**/*.sqlite3
+
+
+############################
+# Strapi
+############################
+
+**/license.txt
+**/exports
+**/*.cache
+**/build
+**/.strapi-updater.json
